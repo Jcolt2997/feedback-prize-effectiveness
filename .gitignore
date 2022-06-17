@@ -1,1 +1,6 @@
 /Data
+.DS_Store
+.gitignore
+.venv/
+.DS_Store
+.gitignore
