@@ -1,6 +1,9 @@
 /Data
-.DS_Store
+*.DS_Store
 .gitignore
 .venv/
 .DS_Store
 .gitignore
+*__MACOSX
+*/__MACOSX
+
